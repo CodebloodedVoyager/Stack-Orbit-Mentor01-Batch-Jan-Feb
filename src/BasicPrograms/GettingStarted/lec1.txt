@@ -1,0 +1,101 @@
+Lec1:
+
+
+FOUNDATION JAVA
+
+Level 1 : 30 lecs
+Level 2 : 
+(30) lec. Of Foundation.
+
+MODULES
+
+- Basics (10 lecs)
+
+    => 1st lec
+    -- language independent
+	-- Getting Started
+	-- Input/Output
+	-- Loops (Patters, For, While, switch...)
+	-- Conditions & Data Types
+
+    => 2nd & 3rd Lec
+	-- PATTERNS (2 lecs)
+
+    => 4th lec
+	-- Number System ()
+
+	=> 5th & 6th lec
+	-- Arrays & Functions
+
+	=> 7th & 8th lec
+	-- 2D Arrays (2 Lectures)
+
+	=> 9th lec
+	-- Strings
+
+	=> 10th lec
+	-- Arraylist & String Builder
+
+- Recursion (8 lecs)
+
+    => 1st, 2nd, 3rd & 4th lec
+	-- Recursion (Impt for Graphs,Trees,) *(4 Lecs)
+
+	=> 5th & 6th lec
+	-- Time and Space Complexity
+
+	=> 7th & 8th lec
+	-- Dynamic Programming
+
+- Basic DS (7 lecs)
+
+    => 1st & 2nd lec
+	-- Stacks
+
+	=> 3rd & 4th lec
+	-- Queues
+
+	=> 5th lec
+	-- Linked List
+
+	=> 6th lec
+	-- Generic tree/ Binary Tree
+
+	=> 7th lec
+	-- Binary Search Tree
+
+- Advanced DS (5 lecs)
+
+    => 1st, 2nd & 3rd lec
+	-- Hashmaps & Heaps
+
+	=> 4th & 5th lec
+	-- Graphs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
